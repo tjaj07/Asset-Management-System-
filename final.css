@@ -1,0 +1,164 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+/* Common to all files */
+nav{
+    padding-left: 50px;
+    padding-top: 10px;
+    background-color: lightgray;
+    padding-bottom: 10px;
+}
+
+nav .self{
+    padding-left: 50px;
+    padding-top: 20px;
+    background-color: lightgray;
+    padding-bottom: 20px;
+}
+
+/* Index Login Page */
+.index-login{
+  margin:10px auto;
+  width:300px;
+}
+
+.submit{
+  margin-bottom:10px;
+}
+
+/* login create update delete button */
+#login-in:hover{
+  background-color: black;
+  color:white;
+  cursor: pointer;
+}
+
+.welcome{
+  margin-top:50px;
+  margin-left:100px;
+}
+
+
+
+#heading{
+    margin-left: 20px;
+}
+
+
+#sub:hover{
+  cursor: pointer;
+  background-color: gray;
+}
+
+#sub{
+    margin-left: 20px;
+}
+
+
+#home_margin{
+  margin-left:27px;
+}
+
+#logout_margin{
+  margin-right:60px;
+}
+
+
+#logout_align{
+  margin-left:800px;
+}
+
+
+.common{
+  border-radius: 4px;
+}
+
+
+.advance_search{
+  text-decoration: none;
+  color:black;
+  margin-left: 58px;
+}
+
+.advance_search:hover{
+  color:black;
+  text-decoration: none;
+  border-radius: 3px;
+  padding:5px;
+  background-color: gray;
+}
+
+.add-item{
+  margin:10px auto;
+  width:360px;
+}
+
+.addwidth{
+  width:280px;
+}
+
+#transferform{
+  display: none;
+}
+
+#transferform2{
+  display: none;
+}
+
+.tranfer_button{
+  width:280px;
+}
+
+#transfer-hover:hover{
+  cursor: pointer;
+}
+
+.search_dropdown{
+  width:183px;
+}
+
+.transfer_button2{
+  width:140px;
+  margin-left:5px;
+  margin-right:5px;
+  border-radius:3px;
+}
+
+/*table display*/
+#self{
+    margin:20px auto;
+    width:1000px;
+}
+
+.result{
+  border-radius: 5px;
+  width:100px;
+}
+
+#result-hover:hover{
+  cursor: pointer;
+  background-color:#6b676e;
+}
+
+#asst:hover{
+  cursor: pointer;
+}
+
+h1{
+  margin:50px;
+}
+
+#transfer{
+    float:left;
+  	width:160px;
+  	padding:10px;
+  	*overflow: hidden;
+  }
+/*self styling*/
+
+.radio_edit{
+  margin-left:10px;
+  margin-right:10px;
+}
